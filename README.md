@@ -19,6 +19,6 @@ node server.js
 
 Open http://localhost:3000/
 
-### Submit dummy credentials to Logout
+> Submit dummy credentials to Logout
 
 Open http://dummy:dummy@localhost:3000/
