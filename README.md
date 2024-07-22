@@ -12,3 +12,9 @@ npm i
 ```
 
 ## Run
+
+```bash
+node server.js
+```
+
+Open http://localhost:3000/
